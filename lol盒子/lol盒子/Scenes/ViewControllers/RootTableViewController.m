@@ -230,6 +230,9 @@
 
 }
 
+-(void)test{
+    NSLog(@"github");
+}
 
 
 /*
