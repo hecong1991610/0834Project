@@ -1,0 +1,10 @@
+PODS:
+  - YAScrollSegmentControl (0.1.0)
+
+DEPENDENCIES:
+  - YAScrollSegmentControl
+
+SPEC CHECKSUMS:
+  YAScrollSegmentControl: c96512f76b231e3cd6ef02a9da073e807542ad09
+
+COCOAPODS: 0.39.0
